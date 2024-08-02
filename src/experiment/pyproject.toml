@@ -1,0 +1,14 @@
+[project]
+name = "driven_nickelate"
+version = "1.0"
+description = "Data analysis for the `driven nickelate` project"
+requires-python = ">=3.10"
+authors = [{ name = "Mattias Matthiesen" }]
+dependencies = ["polars_complex", "polars_splines", "polars_dataset"]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["driven_nickelate"]

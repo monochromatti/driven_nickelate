@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apiplugins">
+    <CLASSES>
+      <root url="file:///Applications/COMSOL61/Multiphysics/apiplugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///Applications/COMSOL61/Multiphysics/apiplugins" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+# ZnTe detector
+Set temperature,Get temperature,Path
+10,10.45,raw_data/09.01.23/23h22m38s_Temperature dependence low field_10.04-10.45_Sam=0.00_HWP=55.00_Tem=10.00.txt
+25,26.13,raw_data/10.01.23/00h18m56s_Temperature dependence low field_25.00-26.13_Sam=0.00_HWP=55.00_Tem=25.00.txt
+40,40.89,raw_data/10.01.23/01h15m47s_Temperature dependence low field_40.00-40.89_Sam=0.00_HWP=55.00_Tem=40.00.txt
+55,55.78,raw_data/10.01.23/02h12m43s_Temperature dependence low field_55.00-55.78_Sam=0.00_HWP=55.00_Tem=55.00.txt
+70,70.66,raw_data/10.01.23/03h10m36s_Temperature dependence low field_70.00-70.66_Sam=0.00_HWP=55.00_Tem=70.00.txt
+85,85.59,raw_data/10.01.23/04h09m29s_Temperature dependence low field_85.00-85.59_Sam=0.00_HWP=55.00_Tem=85.00.txt
+100,100.54,raw_data/10.01.23/05h08m49s_Temperature dependence low field_100.00-100.54_Sam=0.00_HWP=55.00_Tem=100.00.txt
+115,115.51,raw_data/10.01.23/06h08m58s_Temperature dependence low field_115.00-115.51_Sam=0.00_HWP=55.00_Tem=115.00.txt
+130,130.41,raw_data/10.01.23/07h10m26s_Temperature dependence low field_130.00-130.41_Sam=0.00_HWP=55.00_Tem=130.00.txt
+145,145.35,raw_data/10.01.23/08h13m25s_Temperature dependence low field_145.00-145.35_Sam=0.00_HWP=55.00_Tem=145.00.txt
+160,160.31,raw_data/10.01.23/09h27m24s_Temperature dependence low field_160.00-160.31_Sam=0.00_HWP=55.00_Tem=160.00.txt
+175,175.27,raw_data/10.01.23/10h32m02s_Temperature dependence low field_175.00-175.27_Sam=0.00_HWP=55.00_Tem=175.00.txt
