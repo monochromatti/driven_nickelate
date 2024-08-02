@@ -1,0 +1,42 @@
+Temperature,Direction,Pumped,Path
+4.7900,+1,0,raw_data/20.02.23/23h00m47s_Probe scan xT_3.12-4.79_Del=3.10.txt
+51.480,+1,0,raw_data/20.02.23/23h22m17s_Probe scan xT_50.00-51.48_Del=50.00.txt
+101.07,+1,0,raw_data/20.02.23/23h54m28s_Probe scan xT_100.00-101.07_Del=100.00.txt
+120.95,+1,0,raw_data/21.02.23/00h21m44s_Probe scan xT_120.00-120.95_Del=120.00.txt
+125.89,+1,0,raw_data/21.02.23/00h42m21s_Probe scan xT_125.00-125.89_Del=125.00.txt
+130.85,+1,0,raw_data/21.02.23/01h03m01s_Probe scan xT_130.00-130.85_Del=130.00.txt
+135.81,+1,0,raw_data/21.02.23/01h23m36s_Probe scan xT_135.00-135.81_Del=135.00.txt
+140.77,+1,0,raw_data/21.02.23/01h44m16s_Probe scan xT_140.00-140.77_Del=140.00.txt
+145.73,+1,0,raw_data/21.02.23/02h05m03s_Probe scan xT_145.00-145.73_Del=145.00.txt
+150.69,+1,0,raw_data/21.02.23/02h26m18s_Probe scan xT_150.00-150.69_Del=150.00.txt
+155.66,+1,0,raw_data/21.02.23/02h47m34s_Probe scan xT_155.00-155.66_Del=155.00.txt
+160.62,+1,0,raw_data/21.02.23/03h08m50s_Probe scan xT_160.00-160.62_Del=160.00.txt
+165.58,+1,0,raw_data/21.02.23/03h30m20s_Probe scan xT_165.00-165.58_Del=165.00.txt
+170.53,+1,0,raw_data/21.02.23/03h52m15s_Probe scan xT_170.00-170.53_Del=170.00.txt
+175.49,+1,0,raw_data/21.02.23/04h14m09s_Probe scan xT_175.00-175.49_Del=175.00.txt
+180.44,+1,0,raw_data/21.02.23/04h36m26s_Probe scan xT_180.00-180.44_Del=180.00.txt
+185.40,+1,0,raw_data/21.02.23/04h58m55s_Probe scan xT_185.00-185.40_Del=185.00.txt
+190.37,+1,0,raw_data/21.02.23/05h21m34s_Probe scan xT_190.00-190.37_Del=190.00.txt
+195.34,+1,0,raw_data/21.02.23/05h44m21s_Probe scan xT_195.00-195.34_Del=195.00.txt
+200.32,+1,0,raw_data/21.02.23/06h08m19s_Probe scan xT_200.00-200.32_Del=200.00.txt
+200.32,-1,0,raw_data/21.02.23/06h29m55s_Probe scan xT_200.00-200.32_Del=200.00.txt
+195.31,-1,0,raw_data/21.02.23/06h50m45s_Probe scan xT_195.00-195.31_Del=195.00.txt
+190.32,-1,0,raw_data/21.02.23/07h11m01s_Probe scan xT_190.00-190.32_Del=190.00.txt
+185.33,-1,0,raw_data/21.02.23/07h31m22s_Probe scan xT_185.00-185.33_Del=185.00.txt
+180.36,-1,0,raw_data/21.02.23/07h51m59s_Probe scan xT_180.00-180.36_Del=180.00.txt
+175.38,-1,0,raw_data/21.02.23/08h12m38s_Probe scan xT_175.00-175.38_Del=175.00.txt
+170.42,-1,0,raw_data/21.02.23/08h33m08s_Probe scan xT_170.00-170.42_Del=170.00.txt
+165.44,-1,0,raw_data/21.02.23/08h53m46s_Probe scan xT_165.00-165.44_Del=165.00.txt
+160.47,-1,0,raw_data/21.02.23/09h14m17s_Probe scan xT_160.00-160.47_Del=160.00.txt
+155.50,-1,0,raw_data/21.02.23/09h57m39s_Probe scan xT_155.00-155.50_Del=155.00.txt
+150.53,-1,0,raw_data/21.02.23/10h18m16s_Probe scan xT_150.00-150.53_Del=150.00.txt
+145.56,-1,0,raw_data/21.02.23/10h39m15s_Probe scan xT_145.00-145.56_Del=145.00.txt
+140.59,-1,0,raw_data/21.02.23/11h00m24s_Probe scan xT_140.00-140.59_Del=140.00.txt
+135.62,-1,0,raw_data/21.02.23/11h21m22s_Probe scan xT_135.00-135.62_Del=135.00.txt
+125.72,+1,1,raw_data/21.02.23/12h08m55s_Probe scan xT 100ps_125.00-125.72_Min=125.00_HWP=40.00_Del=148.73.txt
+130.69,+1,1,raw_data/21.02.23/12h29m47s_Probe scan xT 100ps_130.00-130.69_Min=130.00_HWP=40.00_Del=148.73.txt
+135.67,+1,1,raw_data/21.02.23/12h50m57s_Probe scan xT 100ps_135.00-135.67_Min=135.00_HWP=40.00_Del=148.73.txt
+140.66,+1,1,raw_data/21.02.23/13h12m19s_Probe scan xT 100ps_140.00-140.66_Min=140.00_HWP=40.00_Del=148.73.txt
+145.64,+1,1,raw_data/21.02.23/13h33m44s_Probe scan xT 100ps_145.00-145.64_Min=145.00_HWP=40.00_Del=148.73.txt
+150.62,+1,1,raw_data/21.02.23/13h55m23s_Probe scan xT 100ps_150.00-150.62_Min=150.00_HWP=40.00_Del=148.73.txt
+155.60,+1,1,raw_data/21.02.23/14h17m20s_Probe scan xT 100ps_155.00-155.60_Min=155.00_HWP=40.00_Del=148.73.txt

@@ -114,7 +114,7 @@ class ColorMapCollection:
 
 # Load resources
 def load_resource(file_name):
-    resource_path = files("scientific_mplstyle").joinpath(file_name)
+    resource_path = files("mplstyle").joinpath(file_name)
     with resource_path.open("r", encoding="utf-8") as file:
         return json.load(file)
 

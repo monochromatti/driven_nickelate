@@ -1,5 +1,8 @@
+.direnv
+.devenv
 .DS_Store
 .vscode
+*.so
 *.egg-info
 *.iml
 *.code-workspace
@@ -9,10 +12,47 @@
 .idea
 __pycache__/
 project_book/
-src/polars-splines/target/
-src/experiment/driven_nickelate/raw_data/
-src/experiment/driven_nickelate/simulations/data/
-src/experiment/driven_nickelate/processed_data/
-src/experiment/driven_nickelate/build/
-src/experiment/driven_nickelate/characterization/transport/raw_data/
-src/experiment/driven_nickelate/characterization/imaging/data/
+src/driven_nickelate/raw_data/
+src/driven_nickelate/simulations/data/
+src/driven_nickelate/processed_data/
+src/driven_nickelate/characterization/transport/raw_data/
+src/driven_nickelate/characterization/imaging/data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv

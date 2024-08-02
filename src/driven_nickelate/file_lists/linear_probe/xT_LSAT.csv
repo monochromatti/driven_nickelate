@@ -1,0 +1,30 @@
+# Measured 30-31 Jan 2023
+# Direction +1 means warming
+Set temperature,Path
+220.0,raw_data/31.01.23/04h40m49s_LSAT substrate_220.00-220.21_Tem=220.00.txt
+215.0,raw_data/31.01.23/04h07m53s_LSAT substrate_215.00-215.23_Tem=215.00.txt
+210.0,raw_data/31.01.23/03h35m24s_LSAT substrate_210.00-210.25_Tem=210.00.txt
+205.0,raw_data/31.01.23/03h02m45s_LSAT substrate_205.00-205.26_Tem=205.00.txt
+200.0,raw_data/31.01.23/02h30m32s_LSAT substrate_200.00-200.27_Tem=200.00.txt
+195.0,raw_data/31.01.23/01h58m53s_LSAT substrate_195.00-195.27_Tem=195.00.txt
+190.0,raw_data/31.01.23/01h26m51s_LSAT substrate_190.00-190.27_Tem=190.00.txt
+185.0,raw_data/31.01.23/00h55m21s_LSAT substrate_185.00-185.27_Tem=185.00.txt
+180.0,raw_data/31.01.23/00h24m12s_LSAT substrate_180.00-180.28_Tem=180.00.txt
+175.0,raw_data/30.01.23/23h53m07s_LSAT substrate_175.00-175.30_Tem=175.00.txt
+170.0,raw_data/30.01.23/23h22m00s_LSAT substrate_170.00-170.31_Tem=170.00.txt
+165.0,raw_data/30.01.23/22h51m09s_LSAT substrate_165.00-165.33_Tem=165.00.txt
+160.0,raw_data/30.01.23/22h20m26s_LSAT substrate_160.00-160.34_Tem=160.00.txt
+155.0,raw_data/30.01.23/21h49m54s_LSAT substrate_155.00-155.36_Tem=155.00.txt
+150.0,raw_data/30.01.23/21h19m41s_LSAT substrate_150.00-150.37_Tem=150.00.txt
+145.0,raw_data/30.01.23/20h49m31s_LSAT substrate_145.00-145.39_Tem=145.00.txt
+140.0,raw_data/30.01.23/20h19m22s_LSAT substrate_140.00-140.40_Tem=140.00.txt
+135.0,raw_data/30.01.23/19h49m22s_LSAT substrate_135.00-135.42_Tem=135.00.txt
+130.0,raw_data/30.01.23/19h19m11s_LSAT substrate_130.00-130.44_Tem=130.00.txt
+125.0,raw_data/30.01.23/18h38m53s_LSAT substrate_125.00-125.47_Tem=125.00.txt
+120.0,raw_data/30.01.23/18h14m54s_LSAT substrate_120.00-120.51_Tem=120.00.txt
+115.0,raw_data/30.01.23/17h50m40s_LSAT substrate_115.00-115.54_Tem=115.00.txt
+110.0,raw_data/30.01.23/17h26m45s_LSAT substrate_110.00-110.56_Tem=110.00.txt
+105.0,raw_data/30.01.23/17h02m53s_LSAT substrate_105.00-105.57_Tem=105.00.txt
+100.0,raw_data/30.01.23/16h39m09s_LSAT substrate_100.00-100.58_Tem=100.00.txt
+50.00,raw_data/30.01.23/16h03m32s_LSAT substrate_50.00-50.87_Tem=50.00.txt
+10.00,raw_data/30.01.23/15h38m46s_LSAT substrate_10.06-10.42_Tem=10.00.txt

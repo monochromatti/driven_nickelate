@@ -1,5 +1,5 @@
 [project]
-name = "scientific_mplstyle"
+name = "mplstyle"
 version = "1.0.0"
 description = "Styling scientific matplotlib plots"
 requires-python = ">=3.10"
@@ -12,7 +12,7 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools]
 include-package-data = true
 package-dir = { "" = "src" }
-packages = ["scientific_mplstyle"]
+packages = ["mplstyle"]
 
 [tool.setuptools.package-data]
-scientific_mplstyle = ["colors.json", "stylesheet.mplstyle", "fonts/*"]
+mplstyle = ["colors.json", "stylesheet.mplstyle", "fonts/*"]

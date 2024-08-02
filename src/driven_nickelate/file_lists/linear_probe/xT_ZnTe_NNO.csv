@@ -1,0 +1,26 @@
+# 24-25 Jan 2023
+Set temperature,Get temperature,Direction,Path
+5.000,9.9100,+1,raw_data/24.01.23/18h07m05s_ZnTe NNO spectrum_5.00-9.91_Tem=5.00.txt
+35.00,36.870,+1,raw_data/24.01.23/18h41m17s_ZnTe NNO spectrum_35.00-36.87_Tem=35.00.txt
+65.00,66.310,+1,raw_data/24.01.23/19h17m54s_ZnTe NNO spectrum_65.00-66.31_Tem=65.00.txt
+95.00,96.020,+1,raw_data/24.01.23/19h58m50s_ZnTe NNO spectrum_95.00-96.02_Tem=95.00.txt
+105.0,105.94,+1,raw_data/24.01.23/20h34m30s_ZnTe NNO spectrum_105.00-105.94_Tem=105.00.txt
+115.0,115.88,+1,raw_data/24.01.23/21h10m39s_ZnTe NNO spectrum_115.00-115.88_Tem=115.00.txt
+125.0,125.77,+1,raw_data/24.01.23/21h47m31s_ZnTe NNO spectrum_125.00-125.77_Tem=125.00.txt
+135.0,135.69,+1,raw_data/24.01.23/22h24m37s_ZnTe NNO spectrum_135.00-135.69_Tem=135.00.txt
+145.0,145.62,+1,raw_data/24.01.23/23h02m12s_ZnTe NNO spectrum_145.00-145.62_Tem=145.00.txt
+155.0,155.57,+1,raw_data/24.01.23/23h40m24s_ZnTe NNO spectrum_155.00-155.57_Tem=155.00.txt
+165.0,165.51,+1,raw_data/25.01.23/00h18m54s_ZnTe NNO spectrum_165.00-165.51_Tem=165.00.txt
+175.0,175.46,+1,raw_data/25.01.23/00h58m06s_ZnTe NNO spectrum_175.00-175.46_Tem=175.00.txt
+185.0,185.41,+1,raw_data/25.01.23/01h37m51s_ZnTe NNO spectrum_185.00-185.41_Tem=185.00.txt
+195.0,195.39,+1,raw_data/25.01.23/02h18m26s_ZnTe NNO spectrum_195.00-195.39_Tem=195.00.txt
+205.0,205.36,+1,raw_data/25.01.23/02h59m28s_ZnTe NNO spectrum_205.00-205.36_Tem=205.00.txt
+205.0,205.36,-1,raw_data/25.01.23/03h31m36s_ZnTe NNO spectrum_205.00-205.36_Tem=205.00.txt
+195.0,195.37,-1,raw_data/25.01.23/04h08m23s_ZnTe NNO spectrum_195.00-195.37_Tem=195.00.txt
+185.0,185.39,-1,raw_data/25.01.23/04h45m19s_ZnTe NNO spectrum_185.00-185.39_Tem=185.00.txt
+175.0,175.44,-1,raw_data/25.01.23/05h22m15s_ZnTe NNO spectrum_175.00-175.44_Tem=175.00.txt
+165.0,165.49,-1,raw_data/25.01.23/05h59m52s_ZnTe NNO spectrum_165.00-165.49_Tem=165.00.txt
+155.0,155.55,-1,raw_data/25.01.23/06h37m22s_ZnTe NNO spectrum_155.00-155.55_Tem=155.00.txt
+145.0,145.60,-1,raw_data/25.01.23/07h15m03s_ZnTe NNO spectrum_145.00-145.60_Tem=145.00.txt
+135.0,135.67,-1,raw_data/25.01.23/07h52m47s_ZnTe NNO spectrum_135.00-135.67_Tem=135.00.txt
+125.0,125.76,-1,raw_data/25.01.23/08h30m44s_ZnTe NNO spectrum_125.00-125.76_Tem=125.00.txt
