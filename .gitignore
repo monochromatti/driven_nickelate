@@ -1,8 +1,13 @@
-*.egg-info
 .DS_Store
 .vscode
+*.egg-info
+*.iml
+*.code-workspace
 project_book/
 src/polars-splines/target/
-src/experiment/raw_data/
-src/experiment/simulations/data/
-src/experiment/processed_data/
+src/experiment/driven_nickelate/raw_data/
+src/experiment/driven_nickelate/simulations/data/
+src/experiment/driven_nickelate/processed_data/
+src/experiment/driven_nickelate/build/
+src/experiment/driven_nickelate/characterization/transport/raw_data/
+src/experiment/driven_nickelate/characterization/imaging/data/
