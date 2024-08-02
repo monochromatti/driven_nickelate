@@ -1,0 +1,8 @@
+*.egg-info
+.DS_Store
+.vscode
+project_book/
+src/polars-splines/target/
+src/experiment/raw_data/
+src/experiment/simulations/data/
+src/experiment/processed_data/
