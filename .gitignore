@@ -6,9 +6,6 @@
 *.egg-info
 *.iml
 *.code-workspace
-.direnv
-.devenv
-.envrc
 .idea
 __pycache__/
 project_book/
@@ -17,6 +14,7 @@ src/driven_nickelate/simulations/data/
 src/driven_nickelate/processed_data/
 src/driven_nickelate/characterization/transport/raw_data/
 src/driven_nickelate/characterization/imaging/data/
+_downloads/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
