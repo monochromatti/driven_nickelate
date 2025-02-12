@@ -1,0 +1,37 @@
+# 31 Jan - 01 Feb 2023
+# Direction +1 corresponds to warming
+Set temperature,Direction,Sample,Path
+10.000,+1,F21059_eSRR,raw_data/31.01.23/16h22m18s_NNO eSRR temperature dep_9.96-10.38_Tem=10.00.txt
+50.000,+1,F21059_eSRR,raw_data/31.01.23/16h48m11s_NNO eSRR temperature dep_50.00-50.81_Tem=50.00.txt
+100.00,+1,F21059_eSRR,raw_data/31.01.23/17h24m41s_NNO eSRR temperature dep_100.00-100.55_Tem=100.00.txt
+105.00,+1,F21059_eSRR,raw_data/31.01.23/17h49m22s_NNO eSRR temperature dep_105.00-105.54_Tem=105.00.txt
+110.00,+1,F21059_eSRR,raw_data/31.01.23/18h13m58s_NNO eSRR temperature dep_110.00-110.53_Tem=110.00.txt
+115.00,+1,F21059_eSRR,raw_data/31.01.23/18h38m41s_NNO eSRR temperature dep_115.00-115.52_Tem=115.00.txt
+120.00,+1,F21059_eSRR,raw_data/31.01.23/19h04m32s_NNO eSRR temperature dep_120.00-120.48_Tem=120.00.txt
+125.00,+1,F21059_eSRR,raw_data/31.01.23/19h29m20s_NNO eSRR temperature dep_125.00-125.45_Tem=125.00.txt
+130.00,+1,F21059_eSRR,raw_data/31.01.23/19h54m21s_NNO eSRR temperature dep_130.00-130.42_Tem=130.00.txt
+135.00,+1,F21059_eSRR,raw_data/31.01.23/20h19m18s_NNO eSRR temperature dep_135.00-135.40_Tem=135.00.txt
+140.00,+1,F21059_eSRR,raw_data/31.01.23/20h44m33s_NNO eSRR temperature dep_140.00-140.38_Tem=140.00.txt
+145.00,+1,F21059_eSRR,raw_data/31.01.23/21h09m52s_NNO eSRR temperature dep_145.00-145.37_Tem=145.00.txt
+150.00,+1,F21059_eSRR,raw_data/31.01.23/21h35m39s_NNO eSRR temperature dep_150.00-150.35_Tem=150.00.txt
+155.00,+1,F21059_eSRR,raw_data/31.01.23/22h01m20s_NNO eSRR temperature dep_155.00-155.34_Tem=155.00.txt
+160.00,+1,F21059_eSRR,raw_data/31.01.23/22h27m13s_NNO eSRR temperature dep_160.00-160.33_Tem=160.00.txt
+165.00,+1,F21059_eSRR,raw_data/31.01.23/22h53m10s_NNO eSRR temperature dep_165.00-165.31_Tem=165.00.txt
+170.00,+1,F21059_eSRR,raw_data/31.01.23/23h19m12s_NNO eSRR temperature dep_170.00-170.30_Tem=170.00.txt
+175.00,+1,F21059_eSRR,raw_data/31.01.23/23h45m23s_NNO eSRR temperature dep_175.00-175.28_Tem=175.00.txt
+180.00,+1,F21059_eSRR,raw_data/01.02.23/01h31m08s_NNO eSRR temperature dep_195.00-195.26_Tem=195.00.txt
+185.00,+1,F21059_eSRR,raw_data/01.02.23/00h11m38s_NNO eSRR temperature dep_180.00-180.27_Tem=180.00.txt
+190.00,+1,F21059_eSRR,raw_data/01.02.23/00h37m56s_NNO eSRR temperature dep_185.00-185.26_Tem=185.00.txt
+195.00,+1,F21059_eSRR,raw_data/01.02.23/01h04m21s_NNO eSRR temperature dep_190.00-190.26_Tem=190.00.txt
+200.00,+1,F21059_eSRR,raw_data/01.02.23/01h58m51s_NNO eSRR temperature dep_200.00-200.26_Tem=200.00.txt
+205.00,+1,F21059_eSRR,raw_data/01.02.23/02h26m01s_NNO eSRR temperature dep_205.00-205.25_Tem=205.00.txt
+210.00,+1,F21059_eSRR,raw_data/01.02.23/02h53m43s_NNO eSRR temperature dep_210.00-210.24_Tem=210.00.txt
+215.00,+1,F21059_eSRR,raw_data/01.02.23/03h21m50s_NNO eSRR temperature dep_215.00-215.22_Tem=215.00.txt
+220.00,+1,F21059_eSRR,raw_data/01.02.23/03h50m12s_NNO eSRR temperature dep_220.00-220.20_Tem=220.00.txt
+180.00,-1,F21059_eSRR,raw_data/01.02.23/08h11m38s_NNO eSRR temperature dep_180.00-180.24_Tem=180.00.txt
+175.00,-1,F21059_eSRR,raw_data/01.02.23/08h36m36s_NNO eSRR temperature dep_175.00-175.25_Tem=175.00.txt
+170.00,-1,F21059_eSRR,raw_data/01.02.23/09h01m56s_NNO eSRR temperature dep_170.00-170.27_Tem=170.00.txt
+165.00,-1,F21059_eSRR,raw_data/01.02.23/09h27m03s_NNO eSRR temperature dep_165.00-165.29_Tem=165.00.txt
+160.00,-1,F21059_eSRR,raw_data/01.02.23/09h52m42s_NNO eSRR temperature dep_160.00-160.31_Tem=160.00.txt
+155.00,-1,F21059_eSRR,raw_data/01.02.23/10h18m22s_NNO eSRR temperature dep_155.00-155.34_Tem=155.00.txt
+150.00,-1,F21059_eSRR,raw_data/01.02.23/10h43m46s_NNO eSRR temperature dep_150.00-150.35_Tem=150.00.txt

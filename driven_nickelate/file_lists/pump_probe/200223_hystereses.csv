@@ -1,0 +1,10 @@
+HWP,Direction,Path
+30,+1,raw_data/19.02.23/14h05m41s_Probe point-scan tempdep xPP xHWP_189.99-190.19_Sam=9.33_Del=148.73_HWP=30.00.txt
+40,+1,raw_data/19.02.23/16h19m37s_Probe point-scan tempdep xPP xHWP_189.99-190.18_Sam=9.33_Min=148.73_HWP=40.00.txt
+50,+1,raw_data/19.02.23/18h06m59s_Probe point-scan tempdep xPP xHWP_189.98-190.17_Sam=9.33_Min=148.73_HWP=50.00.txt
+63,+1,raw_data/19.02.23/20h19m57s_Probe point-scan tempdep xPP xHWP PUMP BLOCKED_189.98-190.18_Sam=9.33_Min=148.73_HWP=63.00.txt
+25,+1,raw_data/19.02.23/22h23m32s_Probe point-scan tempdep xPP xHWP_189.99-190.19_Sam=9.33_Min=148.73_HWP=25.00.txt
+30,-1,raw_data/20.02.23/03h38m01s_Probe point-scan tempdep xPP xHWP DOWN_119.95-120.36_Sam=9.33_Min=148.73_HWP=30.00.txt
+40,-1,raw_data/20.02.23/01h37m23s_Probe point-scan tempdep xPP xHWP DOWN_119.94-120.34_Sam=9.33_Min=148.73_HWP=40.00.txt
+50,-1,raw_data/19.02.23/23h36m41s_Probe point-scan tempdep xPP xHWP DOWN_119.95-120.36_Sam=9.33_Min=148.73_HWP=50.00.txt
+63,-1,raw_data/20.02.23/08h51m44s_Probe point-scan tempdep xPP xHWP DOWN PUMP BLOCKED_119.94-120.35_Sam=9.33_Min=148.73_HWP=63.00.txt
