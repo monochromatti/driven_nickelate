@@ -1,0 +1,11 @@
+[project]
+name = "polars-dataset"
+version = "0.1.0"
+description = "Some compositions around Polars DataFrames for dealing with experimental datasets"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["polars>=1.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
