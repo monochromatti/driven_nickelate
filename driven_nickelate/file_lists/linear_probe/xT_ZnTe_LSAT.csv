@@ -1,0 +1,12 @@
+# PNPA pump and ZnTe probe simultaneously chopped.
+# 23-24 Jan 2023
+Set temperature,Get temperature,Path
+5,10.03,raw_data/23.01.23/23h48m51s_ZnTe LSAT spectrum_5.00-10.03_Min=5.00.txt
+25,27.37,raw_data/24.01.23/01h05m20s_ZnTe LSAT spectrum_25.00-27.37_Min=25.00.txt
+45,46.66,raw_data/24.01.23/02h22m16s_ZnTe LSAT spectrum_45.00-46.66_Min=45.00.txt
+65,66.32,raw_data/24.01.23/03h40m48s_ZnTe LSAT spectrum_65.00-66.32_Min=65.00.txt
+85,86.09,raw_data/24.01.23/05h01m04s_ZnTe LSAT spectrum_85.00-86.09_Min=85.00.txt
+105,105.94,raw_data/24.01.23/06h23m16s_ZnTe LSAT spectrum_105.00-105.94_Min=105.00.txt
+125,125.78,raw_data/24.01.23/07h47m49s_ZnTe LSAT spectrum_125.00-125.78_Min=125.00.txt
+145,145.63,raw_data/24.01.23/09h13m52s_ZnTe LSAT spectrum_145.00-145.63_Min=145.00.txt
+290,290,raw_data/24.01.23/12h24m16s_ZnTe LSAT spectrum_288.42-288.61_.txt
