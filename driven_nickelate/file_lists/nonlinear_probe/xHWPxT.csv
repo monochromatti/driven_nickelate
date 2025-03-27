@@ -1,0 +1,26 @@
+# 11 January 2023
+HWP position,Temperature,Path
+59,3,raw_data/11.01.23/16h12m43s_Field dependence_3.02-4.12_Sam=0.00_Tem=3.00_HWP=59.00.txt
+57,3,raw_data/11.01.23/15h00m47s_Field dependence_3.03-4.14_Sam=0.00_Tem=3.00_HWP=57.00.txt
+55,3,raw_data/11.01.23/14h04m11s_Field dependence_3.02-4.13_Sam=0.00_Tem=3.00_HWP=55.00.txt
+50,3,raw_data/11.01.23/13h26m07s_Field dependence_3.01-4.14_Sam=0.00_Tem=3.00_HWP=50.00.txt
+45,3,raw_data/11.01.23/12h47m40s_Field dependence_3.03-4.13_Sam=0.00_Tem=3.00_HWP=45.00.txt
+40,3,raw_data/11.01.23/12h09m11s_Field dependence_3.00-4.15_Sam=0.00_Tem=3.00_HWP=40.00.txt
+35,3,raw_data/11.01.23/11h30m32s_Field dependence_3.00-4.15_Sam=0.00_Tem=3.00_HWP=35.00.txt
+30,3,raw_data/11.01.23/10h52m19s_Field dependence_3.02-4.14_Sam=0.00_Tem=3.00_HWP=30.00.txt
+59,50,raw_data/12.01.23/02h42m07s_Field dependence 50 K_50.00-50.94_Sam=0.00_Tem=50.00_HWP=59.00.txt
+57,50,raw_data/12.01.23/01h48m51s_Field dependence 50 K_50.00-50.94_Sam=0.00_Tem=50.00_HWP=57.00.txt
+55,50,raw_data/12.01.23/03h34m59s_Field dependence 50 K_50.00-50.94_Sam=0.00_Tem=50.00_HWP=55.00.txt
+50,50,raw_data/12.01.23/04h28m13s_Field dependence 50 K_50.00-50.93_Sam=0.00_Tem=50.00_HWP=50.00.txt
+45,50,raw_data/12.01.23/05h21m21s_Field dependence 50 K_50.00-50.93_Sam=0.00_Tem=50.00_HWP=45.00.txt
+40,50,raw_data/12.01.23/06h14m06s_Field dependence 50 K_50.00-50.93_Sam=0.00_Tem=50.00_HWP=40.00.txt
+35,50,raw_data/12.01.23/07h07m14s_Field dependence 50 K_50.00-50.93_Sam=0.00_Tem=50.00_HWP=35.00.txt
+30,50,raw_data/12.01.23/08h00m25s_Field dependence 50 K_50.00-50.93_Sam=0.00_Tem=50.00_HWP=30.00.txt
+59,210,raw_data/11.01.23/23h33m32s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=59.00.txt
+57,210,raw_data/11.01.23/22h40m25s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=57.00.txt
+55,210,raw_data/11.01.23/21h46m51s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=55.00.txt
+50,210,raw_data/11.01.23/20h53m25s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=50.00.txt
+45,210,raw_data/11.01.23/19h46m13s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=45.00.txt
+40,210,raw_data/11.01.23/19h19m56s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=40.00.txt
+35,210,raw_data/11.01.23/18h53m25s_Field dependence metallic phase_210.00-210.26_Sam=0.00_Tem=210.00_HWP=35.00.txt
+30,210,raw_data/11.01.23/18h26m27s_Field dependence metallic phase_210.00-210.27_Sam=0.00_Tem=210.00_HWP=30.00.txt

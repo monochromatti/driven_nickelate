@@ -1,0 +1,85 @@
+# PNPA pump and ZnTe probe simultaneously chopped.
+# 18-20 Jan 2023
+Delay (ps),Scan type,Path
+380,Pump,raw_data/20.01.23/03h42m14s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.00-10.90_HWP=40.00_Del=103.96_Dum=0.00.txt
+380,Pump + probe,raw_data/20.01.23/03h53m10s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.98-10.90_HWP=40.00_Del=103.96_Dum=90.00.txt
+360,Pump,raw_data/20.01.23/03h20m24s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.01-10.90_HWP=40.00_Del=106.96_Dum=0.00.txt
+360,Pump + probe,raw_data/20.01.23/03h31m19s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.01-10.90_HWP=40.00_Del=106.96_Dum=90.00.txt
+340,Pump,raw_data/20.01.23/02h58m30s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.90_HWP=40.00_Del=109.96_Dum=0.00.txt
+340,Pump + probe,raw_data/20.01.23/03h09m27s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.99-10.90_HWP=40.00_Del=109.96_Dum=90.00.txt
+320,Pump,raw_data/20.01.23/02h36m40s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.98-10.90_HWP=40.00_Del=112.95_Dum=0.00.txt
+320,Pump + probe,raw_data/20.01.23/02h47m35s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.99-10.90_HWP=40.00_Del=112.95_Dum=90.00.txt
+300,Pump,raw_data/20.01.23/02h14m47s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.00-10.90_HWP=40.00_Del=115.95_Dum=0.00.txt
+300,Pump + probe,raw_data/20.01.23/02h25m44s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.91_HWP=40.00_Del=115.95_Dum=90.00.txt
+280,Pump,raw_data/20.01.23/01h52m55s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.91_HWP=40.00_Del=118.95_Dum=0.00.txt
+280,Pump + probe,raw_data/20.01.23/02h03m51s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.00-10.91_HWP=40.00_Del=118.95_Dum=90.00.txt
+260,Pump,raw_data/20.01.23/01h31m02s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.90_HWP=40.00_Del=121.95_Dum=0.00.txt
+260,Pump + probe,raw_data/20.01.23/01h41m58s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.98-10.90_HWP=40.00_Del=121.95_Dum=90.00.txt
+240,Pump,raw_data/20.01.23/01h09m11s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.98-10.90_HWP=40.00_Del=124.95_Dum=0.00.txt
+240,Pump + probe,raw_data/20.01.23/01h20m06s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.01-10.90_HWP=40.00_Del=124.95_Dum=90.00.txt
+220,Pump,raw_data/20.01.23/00h47m20s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.90_HWP=40.00_Del=127.95_Dum=0.00.txt
+220,Pump + probe,raw_data/20.01.23/00h58m15s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.99-10.90_HWP=40.00_Del=127.95_Dum=90.00.txt
+200,Pump,raw_data/20.01.23/00h25m28s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.98-10.90_HWP=40.00_Del=130.94_Dum=0.00.txt
+200,Pump + probe,raw_data/20.01.23/00h36m24s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.99-10.90_HWP=40.00_Del=130.94_Dum=90.00.txt
+180,Pump,raw_data/19.01.23/19h07m25s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.91_HWP=40.00_Del=133.94_Dum=0.00.txt
+180,Pump + probe,raw_data/20.01.23/00h14m31s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.02-10.91_HWP=40.00_Del=133.94_Dum=90.00.txt
+160,Pump,raw_data/19.01.23/23h41m41s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_4.99-10.90_HWP=40.00_Del=136.94_Dum=0.00.txt
+160,Pump + probe,raw_data/19.01.23/23h52m38s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20) RETRY_5.00-10.91_HWP=40.00_Del=136.94_Dum=90.00.txt
+140,Pump,raw_data/19.01.23/16h23m35s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_4.98-10.90_HWP=40.00_Del=139.94_Dum=0.00.txt
+140,Pump + probe,raw_data/19.01.23/16h34m30s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.90_HWP=40.00_Del=139.94_Dum=90.00.txt
+120,Pump,raw_data/19.01.23/16h01m44s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.01-10.91_HWP=40.00_Del=142.94_Dum=0.00.txt
+120,Pump + probe,raw_data/19.01.23/16h12m40s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.91_HWP=40.00_Del=142.94_Dum=90.00.txt
+100,Pump,raw_data/19.01.23/15h39m51s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.02-10.91_HWP=40.00_Del=145.94_Dum=0.00.txt
+100,Pump + probe,raw_data/19.01.23/15h50m48s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_4.98-10.90_HWP=40.00_Del=145.94_Dum=90.00.txt
+80,Pump,raw_data/19.01.23/15h11m19s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.91_HWP=40.00_Del=148.94_Dum=0.00.txt
+80,Pump + probe,raw_data/19.01.23/15h28m55s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.91_HWP=40.00_Del=148.94_Dum=90.00.txt
+60,Pump,raw_data/19.01.23/14h49m24s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.91_HWP=40.00_Del=151.93_Dum=0.00.txt
+60,Pump + probe,raw_data/19.01.23/15h00m22s_ZnTe-PNPA delay dependence (60-400 ps, steps of 20)_5.00-10.90_HWP=40.00_Del=151.93_Dum=90.00.txt
+49,Pump,raw_data/19.01.23/07h31m12s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=153.59_Dum=0.00.txt
+49,Pump + probe,raw_data/19.01.23/07h42m09s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=153.59_Dum=90.00.txt
+47,Pump,raw_data/19.01.23/07h09m20s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.90_HWP=40.00_Del=153.88_Dum=0.00.txt
+47,Pump + probe,raw_data/19.01.23/07h20m15s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.91_HWP=40.00_Del=153.88_Dum=90.00.txt
+45,Pump,raw_data/19.01.23/06h47m25s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.90_HWP=40.00_Del=154.18_Dum=0.00.txt
+45,Pump + probe,raw_data/19.01.23/06h58m22s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.91_HWP=40.00_Del=154.18_Dum=90.00.txt
+43,Pump,raw_data/19.01.23/06h25m32s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=154.48_Dum=0.00.txt
+43,Pump + probe,raw_data/19.01.23/06h36m29s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=154.48_Dum=90.00.txt
+41,Pump,raw_data/19.01.23/06h03m39s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=154.78_Dum=0.00.txt
+41,Pump + probe,raw_data/19.01.23/06h14m35s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=154.78_Dum=90.00.txt
+39,Pump + probe,raw_data/19.01.23/05h52m43s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=155.08_Dum=90.00.txt
+39,Pump,raw_data/19.01.23/05h41m46s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=155.08_Dum=0.00.txt
+37,Pump + probe,raw_data/19.01.23/05h30m47s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=155.38_Dum=90.00.txt
+37,Pump,raw_data/19.01.23/05h19m50s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.92_HWP=40.00_Del=155.38_Dum=0.00.txt
+35,Pump + probe,raw_data/19.01.23/05h08m52s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=155.68_Dum=90.00.txt
+35,Pump,raw_data/19.01.23/04h57m54s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=155.68_Dum=0.00.txt
+33,Pump + probe,raw_data/19.01.23/04h46m57s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=155.98_Dum=90.00.txt
+33,Pump,raw_data/19.01.23/04h36m01s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=155.98_Dum=0.00.txt
+31,Pump + probe,raw_data/19.01.23/04h25m05s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.91_HWP=40.00_Del=156.28_Dum=90.00.txt
+31,Pump,raw_data/19.01.23/04h14m08s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.92_HWP=40.00_Del=156.28_Dum=0.00.txt
+29,Pump + probe,raw_data/19.01.23/04h03m11s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.92_HWP=40.00_Del=156.58_Dum=90.00.txt
+29,Pump,raw_data/19.01.23/03h52m15s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=156.58_Dum=0.00.txt
+27,Pump + probe,raw_data/19.01.23/03h41m17s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.92_HWP=40.00_Del=156.88_Dum=90.00.txt
+27,Pump,raw_data/19.01.23/03h30m21s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.91_HWP=40.00_Del=156.88_Dum=0.00.txt
+25,Pump + probe,raw_data/19.01.23/03h19m23s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.92_HWP=40.00_Del=157.18_Dum=90.00.txt
+25,Pump,raw_data/19.01.23/03h08m27s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=157.18_Dum=0.00.txt
+23,Pump + probe,raw_data/19.01.23/02h57m29s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=157.48_Dum=90.00.txt
+23,Pump,raw_data/19.01.23/02h46m34s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=157.48_Dum=0.00.txt
+21,Pump + probe,raw_data/19.01.23/02h35m37s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=157.78_Dum=90.00.txt
+21,Pump,raw_data/19.01.23/02h24m41s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.92_HWP=40.00_Del=157.78_Dum=0.00.txt
+19,Pump + probe,raw_data/19.01.23/02h13m43s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=158.08_Dum=90.00.txt
+19,Pump,raw_data/19.01.23/02h02m46s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.92_HWP=40.00_Del=158.08_Dum=0.00.txt
+17,Pump + probe,raw_data/19.01.23/01h51m47s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=158.38_Dum=90.00.txt
+17,Pump,raw_data/19.01.23/01h40m50s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.92_HWP=40.00_Del=158.38_Dum=0.00.txt
+15,Pump + probe,raw_data/19.01.23/01h29m52s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.00-10.91_HWP=40.00_Del=158.68_Dum=90.00.txt
+15,Pump,raw_data/19.01.23/01h18m55s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=158.68_Dum=0.00.txt
+13,Pump + probe,raw_data/19.01.23/01h07m58s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=158.98_Dum=90.00.txt
+13,Pump,raw_data/19.01.23/00h57m00s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=158.98_Dum=0.00.txt
+11,Pump + probe,raw_data/19.01.23/00h46m04s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.98-10.91_HWP=40.00_Del=159.28_Dum=90.00.txt
+11,Pump,raw_data/19.01.23/00h35m07s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.92_HWP=40.00_Del=159.28_Dum=0.00.txt
+9,Pump + probe,raw_data/19.01.23/00h24m10s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=159.58_Dum=90.00.txt
+9,Pump,raw_data/19.01.23/00h13m14s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.92_HWP=40.00_Del=159.58_Dum=0.00.txt
+7,Pump + probe,raw_data/19.01.23/00h02m17s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=159.88_Dum=90.00.txt
+7,Pump,raw_data/18.01.23/23h51m22s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.91_HWP=40.00_Del=159.88_Dum=0.00.txt
+5,Pump + probe,raw_data/18.01.23/23h40m27s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.01-10.92_HWP=40.00_Del=160.18_Dum=90.00.txt
+5,Pump,raw_data/18.01.23/23h29m31s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.92_HWP=40.00_Del=160.18_Dum=0.00.txt
+3,Pump + probe,raw_data/18.01.23/23h18m35s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_4.99-10.91_HWP=40.00_Del=160.48_Dum=90.00.txt
+3,Pump,raw_data/18.01.23/23h07m39s_ZnTe-PNPA delay dependence (3-50 ps, steps of 2)_5.02-10.91_HWP=40.00_Del=160.48_Dum=0.00.txt

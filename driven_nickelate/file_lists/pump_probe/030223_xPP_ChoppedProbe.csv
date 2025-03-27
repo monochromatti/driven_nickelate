@@ -1,0 +1,44 @@
+# PNPA pump (80% of max. field strength)
+# ZnTe probe (chopped, measuring probe_on - probe_off, subtracting the pump)
+# Pump-probe peak overlap at x = 163.52
+# 1-3 Jan 2023
+x (mm),Path
+166.00,raw_data/03.02.23/12h12m14s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=166.00.txt
+165.00,raw_data/02.02.23/23h17m03s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.76_HWP=30.00_Del=165.00.txt
+164.00,raw_data/02.02.23/23h36m04s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.75_HWP=30.00_Del=164.00.txt
+163.50,raw_data/03.02.23/11h25m55s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=163.50.txt
+163.25,raw_data/03.02.23/11h50m45s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=163.25.txt
+163.00,raw_data/02.02.23/23h55m06s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.75_HWP=30.00_Del=163.00.txt
+162.00,raw_data/03.02.23/00h14m08s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.74_HWP=30.00_Del=162.00.txt
+161.00,raw_data/03.02.23/00h33m10s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.75_HWP=30.00_Del=161.00.txt
+160.00,raw_data/03.02.23/00h52m12s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.74_HWP=30.00_Del=160.00.txt
+159.00,raw_data/03.02.23/01h11m13s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.74_HWP=30.00_Del=159.00.txt
+158.00,raw_data/03.02.23/01h30m14s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.74_HWP=30.00_Del=158.00.txt
+157.00,raw_data/03.02.23/01h49m16s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.74_HWP=30.00_Del=157.00.txt
+156.00,raw_data/03.02.23/02h08m18s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.73_HWP=30.00_Del=156.00.txt
+155.00,raw_data/03.02.23/02h27m20s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.74_HWP=30.00_Del=155.00.txt
+154.00,raw_data/03.02.23/02h46m22s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.74_HWP=30.00_Del=154.00.txt
+153.00,raw_data/03.02.23/03h05m24s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.73_HWP=30.00_Del=153.00.txt
+152.00,raw_data/03.02.23/03h24m26s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.73_HWP=30.00_Del=152.00.txt
+151.00,raw_data/03.02.23/03h43m28s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.73_HWP=30.00_Del=151.00.txt
+150.00,raw_data/03.02.23/04h02m30s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.73_HWP=30.00_Del=150.00.txt
+149.00,raw_data/03.02.23/04h21m32s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.73_HWP=30.00_Del=149.00.txt
+148.00,raw_data/03.02.23/04h40m34s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.73_HWP=30.00_Del=148.00.txt
+147.00,raw_data/03.02.23/04h59m37s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=147.00.txt
+146.00,raw_data/03.02.23/05h18m39s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=146.00.txt
+145.00,raw_data/03.02.23/05h37m41s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=145.00.txt
+144.00,raw_data/03.02.23/05h56m42s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=144.00.txt
+143.00,raw_data/03.02.23/06h15m44s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=143.00.txt
+142.00,raw_data/03.02.23/06h34m47s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=142.00.txt
+141.00,raw_data/03.02.23/06h53m48s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.72_HWP=30.00_Del=141.00.txt
+140.00,raw_data/03.02.23/07h12m49s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=140.00.txt
+139.00,raw_data/03.02.23/07h31m51s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=139.00.txt
+138.00,raw_data/03.02.23/07h50m53s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=138.00.txt
+137.00,raw_data/03.02.23/08h09m55s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=137.00.txt
+136.00,raw_data/03.02.23/08h28m57s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=136.00.txt
+135.00,raw_data/03.02.23/08h47m59s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=135.00.txt
+134.00,raw_data/03.02.23/09h07m02s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=134.00.txt
+115.00,raw_data/03.02.23/11h04m45s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.72_HWP=30.00_Del=115.00.txt
+100.00,raw_data/03.02.23/10h29m30s_ZnTe F21059 transmission vary pump-probe delay_2.98-4.71_HWP=30.00_Del=100.00.txt
+50.000,raw_data/03.02.23/09h59m16s_ZnTe F21059 transmission vary pump-probe delay_3.00-4.72_HWP=30.00_Del=50.00.txt
+0.0000,raw_data/03.02.23/09h38m13s_ZnTe F21059 transmission vary pump-probe delay_2.99-4.72_HWP=30.00_Del=0.00.txt

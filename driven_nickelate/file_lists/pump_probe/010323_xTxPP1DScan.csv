@@ -1,0 +1,21 @@
+Temperature,HWP,Path
+4.8,31.50,raw_data/28.02.23/22h16m52s_xT xPP 1D scan transient_3.10-4.79_Tem=3.10_HWP=31.50_Sam=9.34.txt
+4.8,38.50,raw_data/28.02.23/22h45m34s_xT xPP 1D scan transient_3.11-4.79_Tem=3.10_HWP=38.50_Sam=9.34.txt
+4.8,44.50,raw_data/28.02.23/23h14m18s_xT xPP 1D scan transient_3.10-4.80_Tem=3.10_HWP=44.50_Sam=9.34.txt
+4.8,50.50,raw_data/28.02.23/23h42m52s_xT xPP 1D scan transient_3.11-4.80_Tem=3.10_HWP=50.50_Sam=9.34.txt
+27.0,31.50,raw_data/01.03.23/00h12m38s_xT xPP 1D scan transient_25.00-27.05_Tem=25.00_HWP=31.50_Sam=9.34.txt
+27.0,38.50,raw_data/01.03.23/00h41m20s_xT xPP 1D scan transient_25.00-27.04_Tem=25.00_HWP=38.50_Sam=9.34.txt
+27.0,44.50,raw_data/01.03.23/01h10m05s_xT xPP 1D scan transient_25.00-27.04_Tem=25.00_HWP=44.50_Sam=9.34.txt
+27.0,50.50,raw_data/01.03.23/01h38m51s_xT xPP 1D scan transient_25.00-27.03_Tem=25.00_HWP=50.50_Sam=9.34.txt
+51.5,31.50,raw_data/01.03.23/02h10m55s_xT xPP 1D scan transient_50.00-51.54_Tem=50.00_HWP=31.50_Sam=9.34.txt
+51.5,38.50,raw_data/01.03.23/02h39m56s_xT xPP 1D scan transient_50.00-51.54_Tem=50.00_HWP=38.50_Sam=9.34.txt
+51.5,44.50,raw_data/01.03.23/03h08m48s_xT xPP 1D scan transient_50.00-51.53_Tem=50.00_HWP=44.50_Sam=9.34.txt
+51.5,50.50,raw_data/01.03.23/03h37m40s_xT xPP 1D scan transient_50.00-51.53_Tem=50.00_HWP=50.50_Sam=9.34.txt
+76.2,31.50,raw_data/01.03.23/04h11m53s_xT xPP 1D scan transient_75.00-76.25_Tem=75.00_HWP=31.50_Sam=9.34.txt
+76.2,38.50,raw_data/01.03.23/04h40m43s_xT xPP 1D scan transient_75.00-76.25_Tem=75.00_HWP=38.50_Sam=9.34.txt
+76.2,44.50,raw_data/01.03.23/05h09m32s_xT xPP 1D scan transient_75.00-76.24_Tem=75.00_HWP=44.50_Sam=9.34.txt
+76.2,50.50,raw_data/01.03.23/05h38m17s_xT xPP 1D scan transient_75.00-76.24_Tem=75.00_HWP=50.50_Sam=9.34.txt
+101.1,31.50,raw_data/01.03.23/06h15m56s_xT xPP 1D scan transient_100.00-101.12_Tem=100.00_HWP=31.50_Sam=9.34.txt
+101.1,38.50,raw_data/01.03.23/06h44m48s_xT xPP 1D scan transient_100.00-101.12_Tem=100.00_HWP=38.50_Sam=9.34.txt
+101.1,44.50,raw_data/01.03.23/07h13m33s_xT xPP 1D scan transient_100.00-101.12_Tem=100.00_HWP=44.50_Sam=9.34.txt
+101.1,50.50,raw_data/01.03.23/07h42m19s_xT xPP 1D scan transient_100.00-101.11_Tem=100.00_HWP=50.50_Sam=9.34.txt

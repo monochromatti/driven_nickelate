@@ -1,0 +1,15 @@
+{
+    "Horizontal space": 14.0,
+    "Vertical space": 11.0,
+    "Line thickness": 3,
+    "Gap size": 0.6,
+    "Plate width": 6.0,
+    "Width": 22.4,
+    "Height": 17.6,
+    "Small fillet radius": 0.5,
+    "Large fillet radius": 3.0,
+    "Substrate size": 5000,
+    "Metasurface angle": 0,
+    "Metasurface radius": 2000,
+    "Label": ""
+}
