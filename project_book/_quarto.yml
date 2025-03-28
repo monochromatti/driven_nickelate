@@ -1,0 +1,47 @@
+project:
+  type: book
+
+book:
+  title: "Terahertz-metallization of NdNiO<sub>3</sub>"
+  author: "Mattias Matthiesen"
+  chapters:
+    - index.qmd
+    - part: "Linear spectroscopy"
+      chapters:
+        - linear_spectroscopy/temperature.qmd
+        - linear_spectroscopy/sample_comparisons.qmd
+        - linear_spectroscopy/substrate.qmd
+    - part: "Dynamics"
+      chapters:
+        - dynamics/overlap.qmd
+        - dynamics/decay.qmd
+    - part: "Electric field susceptibility"
+      chapters:
+        - field_dependence/susceptibility_temperature.qmd
+        - field_dependence/susceptibility_long.qmd
+        - field_dependence/susceptibility_evolution.qmd
+    - part: "Photodoping"
+      chapters:
+        - photodoping/photodoping.qmd
+    - part: "Nonlinear spectroscopy"
+      chapters:
+        - nonlinear_spectroscopy/three_temperatures.qmd
+    - part: "Cavity"
+      chapters:
+        - calculations/field_enhancement.qmd
+        - cavity/polarization.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    fig-format: svg
+    grid:
+      body-width: 1000px
+  pdf:
+    documentclass: scrreprt
+execute:
+  echo: false
+  warning: false
+lightbox: true

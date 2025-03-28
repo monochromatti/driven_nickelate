@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+This book details the analysis of measurements of NdNiO<sub>3</sub> thin films, coupled to an electromagnetic metasurface consisting of golden electric split-ring resonators.
